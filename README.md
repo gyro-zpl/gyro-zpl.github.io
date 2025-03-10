@@ -1,2 +1,2 @@
 # gyro-zpl.github.io
-demo of bpm
+demo of bpm1
